@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/satya/Downloads/GoogleMap003/GoogleMap0033Copy/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/satya/.gradle/caches/transforms-2/files-2.1/310afc985e6724386fc528f157117806/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
