@@ -1,4 +1,7 @@
 # LocationCoordinate
+
+[![Join the chat at https://gitter.im/LocationCoordinate/community](https://badges.gitter.im/LocationCoordinate/community.svg)](https://gitter.im/LocationCoordinate/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Coordinates of different locations
 
 
